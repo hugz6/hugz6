@@ -1,8 +1,12 @@
 # Hi there 👋 I'm Hugo
 ☸️ Kubernetes & Go enthusiast
+
 🔧 Low-level systems enjoyer
+
 💻 Building cloud-native, scalable systems and learning by doing
+
 🏡 Running my own homelab to experiment with infrastructure and automation
+
 
 ## 🛠️ Tech Stack
 
